@@ -1,2 +1,2 @@
 # pipes-dev
-TypeScript piping JS support
+Package for pipeline functionality in JS/TS - https://github.com/tc39/proposal-pipeline-operator
